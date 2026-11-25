@@ -1,0 +1,55 @@
+{
+  "eventos": [
+    {
+      "id": 1,
+      "nome": "oficina de html e css",
+      "data": "2026-12-05",
+      "local": "laboratório 01 - senai sumaré",
+      "imagem": "/imagens/oficina-web.png"
+    },
+    {
+      "id": 2,
+      "nome": "maratona de programação",
+      "data": "2026-12-10",
+      "local": "laboratório 03",
+      "imagem": "/imagens/maratona-codigo.png"
+    },
+    {
+      "id": 3,
+      "nome": "bate-papo sobre mercado de ti",
+      "data": "2026-12-12",
+      "local": "auditório principal",
+      "imagem": "/imagens/bate-papo-ti.png"
+    },
+    {
+      "id": 4,
+      "nome": "encontro de banco de dados",
+      "data": "2026-12-15",
+      "local": "sala de projetos",
+      "imagem": "/imagens/banco-de-dados.png"
+    },
+    {
+      "id": 5,
+      "nome": "torneio de lógica e jogos",
+      "data": "2026-12-18",
+      "local": "pátio central",
+      "imagem": "/imagens/torneio-jogos.png"
+    }
+  ],
+  "inscricoes": [
+    {
+      "id": 1795631697131,
+      "dataRegistro": "25/11/2026",
+      "quantidade": 1,
+      "eventos": [
+        {
+          "id": 1,
+          "nome": "oficina de html e css",
+          "data": "2026-12-05",
+          "local": "laboratório 01 - senai sumaré",
+          "imagem": "http://localhost:3000/imagens/oficina-web.png"
+        }
+      ]
+    }
+  ]
+}
